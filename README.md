@@ -1,3 +1,3 @@
-# GENERATION  [ 01-javascript ]
+# GENERATION : 01-javascript
 
 Ejercicios de js: variables, ciclos, funciones, arreglos y repaso.
